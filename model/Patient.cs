@@ -1,4 +1,5 @@
 using System;
+namespace ClinicaSalud.models;
 
 public class Patient
 {
