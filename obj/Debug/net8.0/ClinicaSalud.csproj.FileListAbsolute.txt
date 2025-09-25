@@ -1,0 +1,15 @@
+/home/Coder/Escritorio/ClinicaSalud/bin/Debug/net8.0/ClinicaSalud
+/home/Coder/Escritorio/ClinicaSalud/bin/Debug/net8.0/ClinicaSalud.deps.json
+/home/Coder/Escritorio/ClinicaSalud/bin/Debug/net8.0/ClinicaSalud.runtimeconfig.json
+/home/Coder/Escritorio/ClinicaSalud/bin/Debug/net8.0/ClinicaSalud.dll
+/home/Coder/Escritorio/ClinicaSalud/bin/Debug/net8.0/ClinicaSalud.pdb
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/ClinicaSalud.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/ClinicaSalud.AssemblyInfoInputs.cache
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/ClinicaSalud.AssemblyInfo.cs
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/ClinicaSalud.csproj.CoreCompileInputs.cache
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/ClinicaSalud.sourcelink.json
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/ClinicaSalud.dll
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/refint/ClinicaSalud.dll
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/ClinicaSalud.pdb
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/ClinicaSalud.genruntimeconfig.cache
+/home/Coder/Escritorio/ClinicaSalud/obj/Debug/net8.0/ref/ClinicaSalud.dll
